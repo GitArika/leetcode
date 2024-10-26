@@ -1,4 +1,4 @@
-# Climbing Stairs
+# Climbing Stairs ✅
 - Solved
 - Easy
 
