@@ -32,7 +32,7 @@ Given a roman numeral, convert it to an integer.
 
 > Output: 3
 
-Explanation: III = 3.
+**Explanation:** III = 3.
 
 ### Example 2:
 
@@ -40,7 +40,7 @@ Explanation: III = 3.
 
 > Output: 58
 
-Explanation: L = 50, V= 5, III = 3.
+**Explanation:** L = 50, V= 5, III = 3.
 
 ### Example 3:
 
@@ -48,7 +48,7 @@ Explanation: L = 50, V= 5, III = 3.
 
 > Output: 1994
 
-Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
+**Explanation:** M = 1000, CM = 900, XC = 90 and IV = 4.
  
 
 ### Constraints:
@@ -65,4 +65,4 @@ Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
 
 ## Hint
 
-- Problem is simpler to solve by working the string from back to front and using a map.
+> Problem is simpler to solve by working the string from back to front and using a map.

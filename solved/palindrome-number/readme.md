@@ -12,7 +12,7 @@ Given an integer x, return true if x is a palindrome, and false otherwise.
 
 > Output: true
 
-Explanation: 121 reads as 121 from left to right and from right to left.
+**Explanation:** 121 reads as 121 from left to right and from right to left.
 
 ### Example 2:
 
@@ -20,7 +20,7 @@ Explanation: 121 reads as 121 from left to right and from right to left.
 
 > Output: false
 
-Explanation: From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
+**Explanation:** From left to right, it reads -121. From right to left, it becomes 121-. Therefore it is not a palindrome.
 
 ### Example 3:
 
@@ -28,7 +28,7 @@ Explanation: From left to right, it reads -121. From right to left, it becomes 1
 
 > Output: false
 
-Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
+**Explanation:** Reads 01 from right to left. Therefore it is not a palindrome.
  
 ### Constraints:
 
@@ -38,4 +38,4 @@ Explanation: Reads 01 from right to left. Therefore it is not a palindrome.
 - Math
 
 ## Hint
-- Beware of overflow when you reverse the integer.
+> Beware of overflow when you reverse the integer.

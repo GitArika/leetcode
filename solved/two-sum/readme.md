@@ -15,7 +15,7 @@ You can return the answer in any order.
 
 > Output: [0,1]
 
-Explanation: Because nums[0] + nums[1] == 9, we return [0, 1].
+**Explanation:** Because nums[0] + nums[1] == 9, we return [0, 1].
 
 ### Example 2:
 
