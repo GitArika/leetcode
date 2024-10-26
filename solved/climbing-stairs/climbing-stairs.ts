@@ -1,4 +1,4 @@
-var climbStairs = function (n) {
+function climbStairs(n: number): number {
   let counts = new Array(n + 1).fill(0);
   counts[0] = 1;
 
