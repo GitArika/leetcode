@@ -18,7 +18,6 @@ function getRomanMap(): Map<string, number> {
   return roman;
 }
 
-// s = MCMXCIV = 1994
 function romanToInt(s: string): number {
   const roman = getRomanMap();
 
@@ -27,11 +26,11 @@ function romanToInt(s: string): number {
 
   for (let i = 0; i < iterable.length; i++) {
     if (roman.has(iterable[i] + iterable[i + 1])) {
-      sum += roman.get(iterable[i] + iterable[i + 1]);
+      sum += roman.get(iterable[i] + iterable[i + 1]) || 0;
       i++;
       continue;
     } else {
-      sum += roman.get(iterable[i]);
+      sum += roman.get(iterable[i]) || 0;
       continue;
     }
   }
