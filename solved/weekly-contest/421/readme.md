@@ -1,6 +1,7 @@
 # Q1. Find the Maximum Factor Score of Array ✅
 - Medium
-- 4 pt.
+- 4 pts
+- Solved
 
 ## Description 
 
