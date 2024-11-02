@@ -37,7 +37,9 @@ Note that buying on day 2 and selling on day 1 is not allowed because you must b
 - Array
 - Dynamic Programming
 
-## Solution 
+## Solution
+- **Time complexity**: O(n)
+- **Space complexity**: O(1)
 
 ```py
 class Solution:
