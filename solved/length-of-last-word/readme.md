@@ -1,6 +1,6 @@
 # Length of Last Word ✅
-- Solved
-- Easy
+- **📁 Difficulty**  
+  🟢 Easy 
 
 ## Description
 
