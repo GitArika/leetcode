@@ -47,7 +47,7 @@ The input binary string 1111111111111111111111111111101 has a total of thirty se
 - Bit Manipulation
 
 ## Solution 
-- **Time complexity:** O(logn)
+- **Time complexity:** O(log n)
 - **Space complexity:** O(log n)
 
 ```py
