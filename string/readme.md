@@ -19,7 +19,7 @@ This folder contains solutions to LeetCode challenges that leverage **[String]**
 | [Longest Common Prefix ](./longest-common-prefix/readme.md) |  🟢 Easy     | O(n + m)           | O(m)             |
 | [Roman to Integer ](./roman-to-integer/readme.md) |  🟢 Easy     | O(n)           | O(1)             |
 | [Separate Black and White Balls ](./separate-black-and-white-balls/readme.md) |  🟡 Medium     | O(n)           | O(1)             |
-| [Product of String Except Self ](./products-except-self/readme.md) |  🟡 Medium     | O(n)           | O(1)             |
+| [Minimum Add to Make Parentheses Valid ](./minimum-add-to-make-parentheses-valid/readme.md) |  🟡 Medium     | O(n)           | O(1)             |
 
 _Note: The list of problems is organized in this README to make it easier to find examples of challenges that use **[String]** effectively._
 
