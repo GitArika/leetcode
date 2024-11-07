@@ -33,3 +33,15 @@ The first occurrence is at index 0, so we return 0.
 - Two Pointers
 - String
 - String Matching
+
+## Solution
+- **Time Complexity:** 
+  - O(n)
+- **Space Complexity:** 
+  - O(1)
+
+```py
+class Solution:
+    def strStr(self, haystack: str, needle: str) -> int:
+        return haystack.find(needle)
+```

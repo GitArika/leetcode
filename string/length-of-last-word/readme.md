@@ -42,3 +42,15 @@ A word is a maximal substring consisting of non-space characters only.
 ## Topics
 
 - String
+
+## Solution
+- **Time Complexity:** 
+  - O(n)
+- **Space Complexity:** 
+  - O(n)
+
+```py
+class Solution:
+    def lengthOfLastWord(self, s: str) -> int:
+        return len(s.rstrip().split(" ")[-1])
+```
