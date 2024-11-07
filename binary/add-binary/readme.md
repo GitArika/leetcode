@@ -31,3 +31,14 @@ Given two binary strings `a` and `b`, return their sum as a binary string.
 - String
 - Bit Manipulation
 - Simulation
+
+## Solution
+- **Time complexity:** O(n)
+- **Space complexity:** O(n)
+
+```py
+class Solution:
+  def addBinary(self, a: str, b: str) -> str:
+    r = int(a,2) + int(b,2)
+    return bin(r).replace('0b', '')
+```

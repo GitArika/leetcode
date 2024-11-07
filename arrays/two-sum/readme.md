@@ -47,3 +47,25 @@ You can return the answer in any order.
 > So, if we fix one of the numbers, say x, we have to scan the entire array to find the next number y which is value - x where value is the input parameter. Can we change our array somehow so that this search becomes faster?
 
 > The second train of thought is, without changing the array, can we use additional space somehow? Like maybe a hash map to speed up the search?
+
+## Solution
+- **Time complexity:** O(n)
+- **Space complexity:** O(n)
+
+```ts
+function twoSum(nums: number[], target: number): number[] {
+  const numMap = new Map();
+
+  for (let i = 0; i < nums.length; i++) {
+    const complement = target - nums[i];
+
+    if (numMap.has(complement)) {
+      return [numMap.get(complement), i];
+    }
+
+    numMap.set(nums[i], i);
+  }
+
+  return [];
+}
+```

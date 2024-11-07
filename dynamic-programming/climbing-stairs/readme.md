@@ -39,3 +39,22 @@ Each time you can either climb `1` or `2` steps. In how many distinct ways can y
 - Dynamic Programming
 - Memoization
 
+## Solution
+- **Time complexity:** O(n)
+- **Space complexity:** O(n)
+
+```ts
+function climbStairs(n: number): number {
+  let counts = new Array(n + 1).fill(0);
+  counts[0] = 1;
+
+  for (let i = 1; i <= n; i++) {
+    counts[i] += counts[i - 1];
+    if (i - 2 >= 0) {
+      counts[i] += counts[i - 2];
+    }
+  }
+
+  return counts[n];
+};
+```

@@ -32,7 +32,13 @@ A binary tree's maximum depth is the number of nodes along the longest path from
 - Breadth-First Search
 - Binary Tree
 
-# Solution O(log n)
+# Solution
+- **Time complexity:**
+    - O(n) for a unbalanced three
+- **Space complexity:**
+    - O(log n) in the best case for a balanced tree
+    - O(n) in the worst case for an unbalanced tree.
+
 ```py
 # Definition for a binary tree node.
 # class TreeNode:

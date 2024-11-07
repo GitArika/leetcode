@@ -74,3 +74,20 @@ It does not matter what you leave beyond the returned k (hence they are undersco
 ![hint2](https://assets.leetcode.com/uploads/2019/10/20/hint_remove_element.png)
 
 > Yet another direction of thought is to consider the elements to be removed as non-existent. In a single pass, if we keep copying the visible elements in-place, that should also solve this problem for us.
+
+## Solution
+- **Time complexity:** O(n)
+- **Space complexity:** O(1)
+
+```ts
+function removeElement(nums: number[], val: number): number {
+  let j = 0;
+  for (let i = 0; i < nums.length; i++) {
+    if (nums[i] !== val) {
+      nums[j] = nums[i];
+      j++
+    }
+  }
+  return j
+};
+```
