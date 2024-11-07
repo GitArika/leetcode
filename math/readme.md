@@ -15,6 +15,8 @@ This folder contains solutions to LeetCode challenges that leverage **[Math]** t
 | Problem          | Difficulty | Time Complexity | Space Complexity |
 |-----------------------|------------|-----------------|------------------|
 | [Palindrome Number ](./palindrome-number/readme.md) |  🟢 Easy     | O(log n)           | O(1)             |
+| [Plus One ](./plus-one/readme.md) |  🟢 Easy     | O(n)           | O(1)             |
+| [Maximum Swap ](./maximum-swap/readme.md) |  🟢 Easy     | O(n)           | O(n)             |
 
 _Note: The list of problems is organized in this README to make it easier to find examples of challenges that use **[Math]** effectively._
 

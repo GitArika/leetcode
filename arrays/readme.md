@@ -18,6 +18,7 @@ This folder contains solutions to LeetCode challenges that leverage **[Array]** 
 | [Remove Duplicates from Sorted Array ](./remove-duplicates-from-sorted-array/readme.md) |  🟢 Easy     | O(n)           | O(1)             |
 | [Remove Element ](./remove-element/readme.md) |  🟢 Easy     | O(n)           | O(1)             |
 | [Search Insert Position ](./search-insert/readme.md) |  🟢 Easy     | O(log n)           | O(1)             |
+| [Two Sum ](./two-sum/readme.md) |  🟢 Easy     | O(n)           | O(n)             |
 | [3Sum ](./three-sum/readme.md) |  🟡 Medium     | O(log n²)           | O(n)             |
 | [Product of Array Except Self ](./products-except-self/readme.md) |  🟡 Medium     | O(n)           | O(1)             |
 

@@ -2,20 +2,28 @@
 
 Welcome to my collection of LeetCode problem solutions! This repository is a record of my journey tackling coding challenges to improve my problem-solving skills and strengthen my understanding of data structures and algorithms.
 
-## 📂 Repository Structure
-
-Each problem is organized by topic and difficulty level to help you easily find solutions:
-
-- **📁 Data Structures**  
-  Arrays,, Binary, Matrix, Heap, Linked Lists, Trees, Graphs, etc.
-
-- **📁 Algorithms**  
-  Sorting, Searching, Two Pointers, Dynamic Programming, Interval, Recursion, etc.
+**Each problem is organized by topic and difficulty level to help you easily find solutions:**
 
 - **📁 Difficulty**  
   🟢 Easy  
   🟡 Medium  
   🔴 Hard
+
+## 📂 Data Structures and Algorithms
+
+| DSA          | Problems | 🟢 Easy | 🟡 Medium | 🔴 Hard |
+|-----------------------|------------|-----------------|------------------|------------------|
+| [🗃️ Array ](./arrays) |  7     | 5           | 2             |  0               |
+| [📊 Binary ](./binary) |  4     | 4           | 0             |  0               |
+| [📈 Dynamic Programming ](./dynamic-programming) |  1     | 1           | 0             |  0               |
+| [🔗 Linked List ](./linked-list) |  1     | 1           | 0             |  0               |
+| [➗ Math ](./math) |  3     | 3           | 0             |  0               |
+| [🧵 String ](./string) |  6     | 4           | 2             |  0               |
+| [🌳 Three ](./three) |  1     | 1           | 0             |  0               |
+| [🏆 Weekly Contest ](./weekly-contest) |  2     | 0           | 2             |  0               |
+
+_Note: The list of problems is organized in this README to make it easier to find._
+
 
 ## 🛠️ Setup & Usage
 
