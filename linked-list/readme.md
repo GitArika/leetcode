@@ -16,6 +16,7 @@ This folder contains solutions to LeetCode challenges that leverage **[Linked Li
 |-----------------------|------------|-----------------|------------------|
 | [Merge Two Sorted Lists ](./merge-two-sorted-lists/readme.md) |  🟢 Easy     | O(n+m)           | O(1)             |
 | [Reverse Linked List ](./reverse-linked-list/readme.md) |  🟢 Easy     | O(n)           | O(1)             |
+| [Linked List Cycle ](./linked-list-cycle/readme.md) |  🟢 Easy     | O(n)           | O(1)             |
 
 _Note: The list of problems is organized in this README to make it easier to find examples of challenges that use **[Linked List]** effectively._
 
