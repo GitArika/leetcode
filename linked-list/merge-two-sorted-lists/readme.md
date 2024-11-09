@@ -43,8 +43,10 @@ Example 1:
 - Recursion
 
 ## Solution
-- **Time Complexity:**: O(n+m)
-- **Space Complexity:**: O(1)
+- **Time Complexity:**: 
+  - O(n+m)
+- **Space Complexity:**: 
+  - O(1)
 
 ```js
 /**
