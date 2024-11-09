@@ -15,6 +15,7 @@ This folder contains solutions to LeetCode challenges that leverage **[Three]** 
 | Problem          | Difficulty | Time Complexity | Space Complexity |
 |-----------------------|------------|-----------------|------------------|
 | [Maximum Depth of Binary Tree ](./maximum-depth-of-binary-three/readme.md) |  🟢 Easy     | O(n)           | O(log n)             |
+| [Same Tree ](./same-tree/readme.md) |  🟢 Easy     | O(log n)           | O(log n)             |
 
 _Note: The list of problems is organized in this README to make it easier to find examples of challenges that use **[Three]** effectively._
 

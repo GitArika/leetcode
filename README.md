@@ -19,7 +19,7 @@ Welcome to my collection of LeetCode problem solutions! This repository is a rec
 | [🔗 Linked List ](./linked-list) |  1     | 1           | 0             |  0               |
 | [➗ Math ](./math) |  3     | 3           | 0             |  0               |
 | [🧵 String ](./string) |  6     | 4           | 2             |  0               |
-| [🌳 Three ](./three) |  1     | 1           | 0             |  0               |
+| [🌳 Three ](./three) |  2     | 2           | 0             |  0               |
 | [🏆 Weekly Contest ](./weekly-contest) |  2     | 0           | 2             |  0               |
 
 _Note: The list of problems is organized in this README to make it easier to find._
