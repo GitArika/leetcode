@@ -9,7 +9,7 @@ Welcome to my collection of LeetCode problem solutions! This repository is a rec
   🟡 Medium  
   🔴 Hard
 
-## 📂 Data Structures and Algorithms
+## 📂 Data Structures and Algorithms 
 
 | DSA          | Problems | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |-----------------------|------------|-----------------|------------------|------------------|
@@ -22,6 +22,11 @@ Welcome to my collection of LeetCode problem solutions! This repository is a rec
 | [🌳 Three ](./three) |  3     | 3           | 0             |  0               |
 | [🏆 Weekly Contest ](./weekly-contest) |  2     | 0           | 2             |  0               |
 
+- Problems Solved **[29]**
+  - 🟢 Easy **[23]**
+  - 🟡 Medium **[6]**
+  - 🔴 Hard **[0]**
+  
 _Note: The list of problems is organized in this README to make it easier to find._
 
 
