@@ -1,13 +1,13 @@
-# 📂 [Three] Challenges
+# 📂 [Tree] Challenges
 
-This folder contains solutions to LeetCode challenges that leverage **[Three]** to solve problems efficiently. Each problem in this category is documented with a description of the approach, solution code, and an analysis of time and space complexity.
+This folder contains solutions to LeetCode challenges that leverage **[Tree]** to solve problems efficiently. Each problem in this category is documented with a description of the approach, solution code, and an analysis of time and space complexity.
 
 ## 📝 Folder Overview
 
-- **Purpose**: To provide optimized solutions using **[Three]**.
+- **Purpose**: To provide optimized solutions using **[Tree]**.
 - **Contents**: Each problem solution is accompanied by:
   - **Problem Description**: A brief explanation of the challenge.
-  - **Solution**: The code implementation using **[Three]**.
+  - **Solution**: The code implementation using **[Tree]**.
   - **Complexity Analysis**: Insights into time and space complexity.
 
 ## 📑 Problem List
@@ -18,7 +18,7 @@ This folder contains solutions to LeetCode challenges that leverage **[Three]** 
 | [Same Tree ](./same-tree/readme.md) |  🟢 Easy     | O(log n)           | O(log n)             |
 | [Invert Binary Tree ](./invert-tree/readme.md) |  🟢 Easy     | O(n)           | O(n)             |
 
-_Note: The list of problems is organized in this README to make it easier to find examples of challenges that use **[Three]** effectively._
+_Note: The list of problems is organized in this README to make it easier to find examples of challenges that use **[Tree]** effectively._
 
 ## ⚙️ How to Use
 
@@ -27,13 +27,13 @@ _Note: The list of problems is organized in this README to make it easier to fin
 
 ## 🚀 Key Techniques
 
-Using **[Three]** offers advantages like:
+Using **[Tree]** offers advantages like:
 - **Efficiency**: Solving problems faster by focusing on optimal Three usage.
 - **Scalability**: Reducing resource needs in complex problem scenarios.
 
 ## 🔄 Regular Updates
 
-This folder will be updated as new **[Three]**-based problems are solved and added to this collection. Stay tuned for more!
+This folder will be updated as new **[Tree]**-based problems are solved and added to this collection. Stay tuned for more!
 
 ---
 
