@@ -21,6 +21,7 @@ This folder contains solutions to LeetCode challenges that leverage **[Array]** 
 | [Two Sum ](./two-sum/readme.md) |  🟢 Easy     | O(n)           | O(n)             |
 | [3Sum ](./three-sum/readme.md) |  🟡 Medium     | O(log n²)           | O(n)             |
 | [Product of Array Except Self ](./products-except-self/readme.md) |  🟡 Medium     | O(n)           | O(1)             |
+| [Find the Power of K-Size Subarrays I ](./find-the-power-of-k-size-subarrays/readme.md) |  🟡 Medium     | O(n)           | O(n)             |
 
 _Note: The list of problems is organized in this README to make it easier to find examples of challenges that use **[Array]** effectively._
 
