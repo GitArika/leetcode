@@ -13,7 +13,7 @@ Welcome to my collection of LeetCode problem solutions! This repository is a rec
 
 | DSA          | Problems | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 |-----------------------|------------|-----------------|------------------|------------------|
-| [🗃️ Array ](./arrays) |  8     | 5           | 3             |  0               |
+| [🗃️ Array ](./arrays) |  9     | 5           | 3             |  1               |
 | [📊 Binary ](./binary) |  4     | 4           | 0             |  0               |
 | [📈 Dynamic Programming ](./dynamic-programming) |  1     | 1           | 0             |  0               |
 | [🔗 Linked List ](./linked-list) |  3     | 3           | 0             |  0               |
@@ -24,8 +24,8 @@ Welcome to my collection of LeetCode problem solutions! This repository is a rec
 
 - Problems Solved **[29]**
   - 🟢 Easy **[23]**
-  - 🟡 Medium **[6]**
-  - 🔴 Hard **[0]**
+  - 🟡 Medium **[7]**
+  - 🔴 Hard **[1]**
   
 _Note: The list of problems is organized in this README to make it easier to find._
 

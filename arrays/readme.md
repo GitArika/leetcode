@@ -22,6 +22,7 @@ This folder contains solutions to LeetCode challenges that leverage **[Array]** 
 | [3Sum ](./three-sum/readme.md) |  🟡 Medium     | O(log n²)           | O(n)             |
 | [Product of Array Except Self ](./products-except-self/readme.md) |  🟡 Medium     | O(n)           | O(1)             |
 | [Find the Power of K-Size Subarrays I ](./find-the-power-of-k-size-subarrays/readme.md) |  🟡 Medium     | O(n)           | O(n)             |
+| [Shortest Subarray with Sum at Least K ](./shortest-subarray-with-sum-at-least-k/readme.md) |  🔴 Hard     | O(n log n)           | O(1)             |
 
 _Note: The list of problems is organized in this README to make it easier to find examples of challenges that use **[Array]** effectively._
 
