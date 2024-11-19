@@ -15,15 +15,15 @@ Welcome to my collection of LeetCode problem solutions! This repository is a rec
 |-----------------------|------------|-----------------|------------------|------------------|
 | [🗃️ Array ](./arrays) |  9     | 5           | 3             |  1               |
 | [📊 Binary ](./binary) |  4     | 4           | 0             |  0               |
-| [📈 Dynamic Programming ](./dynamic-programming) |  1     | 1           | 0             |  0               |
+| [📈 Dynamic Programming ](./dynamic-programming) |  2     | 2           | 0             |  0               |
 | [🔗 Linked List ](./linked-list) |  3     | 3           | 0             |  0               |
 | [➗ Math ](./math) |  3     | 3           | 0             |  0               |
 | [🧵 String ](./string) |  6     | 4           | 2             |  0               |
 | [🌳 Tree ](./tree) |  3     | 3           | 0             |  0               |
 | [🏆 Weekly Contest ](./weekly-contest) |  2     | 0           | 2             |  0               |
 
-- Problems Solved **[29]**
-  - 🟢 Easy **[23]**
+- Problems Solved **[30]**
+  - 🟢 Easy **[24]**
   - 🟡 Medium **[7]**
   - 🔴 Hard **[1]**
   
