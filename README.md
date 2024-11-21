@@ -22,8 +22,8 @@ Welcome to my collection of LeetCode problem solutions! This repository is a rec
 | [🌳 Tree ](./tree) |  3     | 3           | 0             |  0               |
 | [🏆 Weekly Contest ](./weekly-contest) |  2     | 0           | 2             |  0               |
 
-- Problems Solved **[30]**
-  - 🟢 Easy **[24]**
+- Problems Solved **[33]**
+  - 🟢 Easy **[25]**
   - 🟡 Medium **[7]**
   - 🔴 Hard **[1]**
   
