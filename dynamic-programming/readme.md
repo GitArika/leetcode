@@ -16,6 +16,7 @@ This folder contains solutions to LeetCode challenges that leverage **[Dynamic P
 |-----------------------|------------|-----------------|------------------|
 | [Climbing Stairs ](./climbing-stairs/readme.md) |  🟢 Easy     | O(n)           | O(n)             |
 | [Is Subsequence ](./is-subsequence/readme.md) |  🟢 Easy     | O(n)           | O(1)             |
+| [Pascal's Triangle ](./pascals-triangle/readme.md) |  🟢 Easy     | O(n²)           | O(n²)             |
 
 _Note: The list of problems is organized in this README to make it easier to find examples of challenges that use **[Dynamic Programming]** effectively._
 
