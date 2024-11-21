@@ -40,8 +40,10 @@ Each time you can either climb `1` or `2` steps. In how many distinct ways can y
 - Memoization
 
 ## Solution
-- **Time complexity:** O(n)
-- **Space complexity:** O(n)
+- **Time complexity:** 
+  - O(n)
+- **Space complexity:** 
+  - O(n)
 
 ```ts
 function climbStairs(n: number): number {

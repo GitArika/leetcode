@@ -34,9 +34,9 @@ Array
 
 ## Solution
 - **Time complexity:** 
- - O(n²)
+  - O(n²)
 - **Space complexity:** 
- - O(n²)
+  - O(n²)
 
 ```py
 class Solution:

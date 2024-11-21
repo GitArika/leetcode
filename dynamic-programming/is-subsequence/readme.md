@@ -35,9 +35,9 @@ A **subsequence** of a string is a new string that is formed from the original s
 
 ## Solution
 - **Time complexity:** 
- - O(n)
+  - O(n)
 - **Space complexity:** 
- - O(1)
+  - O(1)
 
  ```py
 class Solution:
