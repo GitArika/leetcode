@@ -18,6 +18,7 @@ This folder contains solutions to LeetCode challenges that leverage **[String]**
 | [Length of Last Word ](./length-of-last-word/readme.md) |  🟢 Easy     | O(n)           | O(n)             |
 | [Longest Common Prefix ](./longest-common-prefix/readme.md) |  🟢 Easy     | O(n + m)           | O(m)             |
 | [Roman to Integer ](./roman-to-integer/readme.md) |  🟢 Easy     | O(n)           | O(1)             |
+| [Minimum Time to Type Word Using Special Typewriter ](./min-time-to-type/readme.md) |  🟢 Easy     | O(n)           | O(1)             |
 | [Separate Black and White Balls ](./separate-black-and-white-balls/readme.md) |  🟡 Medium     | O(n)           | O(1)             |
 | [Minimum Add to Make Parentheses Valid ](./minimum-add-to-make-parentheses-valid/readme.md) |  🟡 Medium     | O(n)           | O(1)             |
 

@@ -18,12 +18,12 @@ Welcome to my collection of LeetCode problem solutions! This repository is a rec
 | [📈 Dynamic Programming ](./dynamic-programming) |  3     | 3           | 0             |  0               |
 | [🔗 Linked List ](./linked-list) |  3     | 3           | 0             |  0               |
 | [➗ Math ](./math) |  3     | 3           | 0             |  0               |
-| [🧵 String ](./string) |  6     | 4           | 2             |  0               |
+| [🧵 String ](./string) |  7     | 5           | 2             |  0               |
 | [🌳 Tree ](./tree) |  3     | 3           | 0             |  0               |
 | [🏆 Weekly Contest ](./weekly-contest) |  2     | 0           | 2             |  0               |
 
-- Problems Solved **[33]**
-  - 🟢 Easy **[25]**
+- Problems Solved **[34]**
+  - 🟢 Easy **[26]**
   - 🟡 Medium **[7]**
   - 🔴 Hard **[1]**
   
