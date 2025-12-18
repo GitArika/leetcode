@@ -9,33 +9,35 @@ Welcome to my collection of LeetCode problem solutions! This repository is a rec
   🟡 Medium  
   🔴 Hard
 
-## 📂 Data Structures and Algorithms 
+## 📂 Data Structures and Algorithms
 
-| DSA          | Problems | 🟢 Easy | 🟡 Medium | 🔴 Hard |
-|-----------------------|------------|-----------------|------------------|------------------|
-| [🗃️ Array ](./arrays) |  9     | 5           | 3             |  1               |
-| [📊 Binary ](./binary) |  4     | 4           | 0             |  0               |
-| [📈 Dynamic Programming ](./dynamic-programming) |  3     | 3           | 0             |  0               |
-| [🔗 Linked List ](./linked-list) |  3     | 3           | 0             |  0               |
-| [➗ Math ](./math) |  3     | 3           | 0             |  0               |
-| [🧵 String ](./string) |  7     | 5           | 2             |  0               |
-| [🌳 Tree ](./tree) |  3     | 3           | 0             |  0               |
-| [🏆 Weekly Contest ](./weekly-contest) |  2     | 0           | 2             |  0               |
+| DSA                                              | Problems | 🟢 Easy | 🟡 Medium | 🔴 Hard |
+| ------------------------------------------------ | -------- | ------- | --------- | ------- |
+| [🗃️ Array ](./arrays)                            | 9        | 6       | 3         | 1       |
+| [📊 Binary ](./binary)                           | 4        | 4       | 0         | 0       |
+| [📈 Dynamic Programming ](./dynamic-programming) | 3        | 3       | 0         | 0       |
+| [🔗 Linked List ](./linked-list)                 | 3        | 3       | 0         | 0       |
+| [➗ Math ](./math)                               | 3        | 3       | 0         | 0       |
+| [🧵 String ](./string)                           | 7        | 5       | 2         | 0       |
+| [🌳 Tree ](./tree)                               | 3        | 3       | 0         | 0       |
+| [🏆 Weekly Contest ](./weekly-contest)           | 2        | 0       | 2         | 0       |
 
 - Problems Solved **[34]**
   - 🟢 Easy **[26]**
   - 🟡 Medium **[7]**
   - 🔴 Hard **[1]**
-  
-_Note: The list of problems is organized in this README to make it easier to find._
 
+_Note: The list of problems is organized in this README to make it easier to find._
 
 ## 🛠️ Setup & Usage
 
 1. **Clone the repository**:
+
    ```bash
    git clone https://github.com/GitArika/leetcode.git
    cd leetcode
+
+   ```
 
 2. **Navigate to a problem:** Browse the folders to find specific problem solutions.
 
@@ -62,7 +64,6 @@ If you're new to LeetCode, here’s how to get started:
 ## 🤝 Contributions
 
 Feel free to submit pull requests if you have alternative or optimized solutions for any problem, or if you'd like to add documentation improvements.
-
 
 ## 💬 Contact
 
