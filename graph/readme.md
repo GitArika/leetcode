@@ -12,11 +12,9 @@ This folder contains solutions to LeetCode challenges that leverage **[Graph]** 
 
 ## 📑 Problem List
 
-| Problem                                                                     | Difficulty | Time Complexity | Space Complexity |
-| --------------------------------------------------------------------------- | ---------- | --------------- | ---------------- | --- |
-| <!-- Add your problems below following the pattern: -->                     |            |                 |                  |
-| <!-- Example: -->                                                           |            |                 |                  |
-| <!-- [Find All People With Secret](./find-all-people-with-secret/readme.md) | 🟡 Medium  | O(n + m)        | O(n)             | --> |
+| Problem                                                                | Difficulty | Time Complexity | Space Complexity |
+| ---------------------------------------------------------------------- | ---------- | --------------- | ---------------- |
+| [Find All People With Secret](./find-all-people-with-secret/readme.md) | 🟡 Medium  | O(n + m)        | O(n)             |
 
 _Note: The list of problems is organized in this README to make it easier to find examples of challenges that use **[Graph]** effectively._
 
