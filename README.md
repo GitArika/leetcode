@@ -20,11 +20,12 @@ Welcome to my collection of LeetCode problem solutions! This repository is a rec
 | [➗ Math ](./math)                               | 3        | 3       | 0         | 0       |
 | [🧵 String ](./string)                           | 7        | 5       | 2         | 0       |
 | [🌳 Tree ](./tree)                               | 3        | 3       | 0         | 0       |
+| [🧐 Graph ](./graph)                             | 1        | 0       | 1         | 0       |
 | [🏆 Weekly Contest ](./weekly-contest)           | 2        | 0       | 2         | 0       |
 
-- Problems Solved **[34]**
+- Problems Solved **[36]**
   - 🟢 Easy **[26]**
-  - 🟡 Medium **[7]**
+  - 🟡 Medium **[9]**
   - 🔴 Hard **[1]**
 
 _Note: The list of problems is organized in this README to make it easier to find._
