@@ -18,7 +18,7 @@ Welcome to my collection of LeetCode problem solutions! This repository is a rec
 | [📈 Dynamic Programming ](./dynamic-programming) | 3        | 3       | 0         | 0       |
 | [🔗 Linked List ](./linked-list)                 | 3        | 3       | 0         | 0       |
 | [➗ Math ](./math)                               | 3        | 3       | 0         | 0       |
-| [🧵 String ](./string)                           | 7        | 5       | 2         | 0       |
+| [🧵 String ](./string)                           | 8        | 5       | 3         | 0       |
 | [🌳 Tree ](./tree)                               | 3        | 3       | 0         | 0       |
 | [🧐 Graph ](./graph)                             | 1        | 0       | 1         | 0       |
 | [🏆 Weekly Contest ](./weekly-contest)           | 2        | 0       | 2         | 0       |

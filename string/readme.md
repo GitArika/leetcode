@@ -12,15 +12,16 @@ This folder contains solutions to LeetCode challenges that leverage **[String]**
 
 ## 📑 Problem List
 
-| Problem          | Difficulty | Time Complexity | Space Complexity |
-|-----------------------|------------|-----------------|------------------|
-| [Find the Index of the First Occurrence in a String ](./find-the-index-of-the-first-occurence-in-a-string/readme.md) |  🟢 Easy     | O(n)           | O(1)             |
-| [Length of Last Word ](./length-of-last-word/readme.md) |  🟢 Easy     | O(n)           | O(n)             |
-| [Longest Common Prefix ](./longest-common-prefix/readme.md) |  🟢 Easy     | O(n + m)           | O(m)             |
-| [Roman to Integer ](./roman-to-integer/readme.md) |  🟢 Easy     | O(n)           | O(1)             |
-| [Minimum Time to Type Word Using Special Typewriter ](./min-time-to-type/readme.md) |  🟢 Easy     | O(n)           | O(1)             |
-| [Separate Black and White Balls ](./separate-black-and-white-balls/readme.md) |  🟡 Medium     | O(n)           | O(1)             |
-| [Minimum Add to Make Parentheses Valid ](./minimum-add-to-make-parentheses-valid/readme.md) |  🟡 Medium     | O(n)           | O(1)             |
+| Problem                                                                                                              | Difficulty | Time Complexity | Space Complexity |
+| -------------------------------------------------------------------------------------------------------------------- | ---------- | --------------- | ---------------- |
+| [Find the Index of the First Occurrence in a String ](./find-the-index-of-the-first-occurence-in-a-string/readme.md) | 🟢 Easy    | O(n)            | O(1)             |
+| [Length of Last Word ](./length-of-last-word/readme.md)                                                              | 🟢 Easy    | O(n)            | O(n)             |
+| [Longest Common Prefix ](./longest-common-prefix/readme.md)                                                          | 🟢 Easy    | O(n + m)        | O(m)             |
+| [Roman to Integer ](./roman-to-integer/readme.md)                                                                    | 🟢 Easy    | O(n)            | O(1)             |
+| [Minimum Time to Type Word Using Special Typewriter ](./min-time-to-type/readme.md)                                  | 🟢 Easy    | O(n)            | O(1)             |
+| [Separate Black and White Balls ](./separate-black-and-white-balls/readme.md)                                        | 🟡 Medium  | O(n)            | O(1)             |
+| [Minimum Add to Make Parentheses Valid ](./minimum-add-to-make-parentheses-valid/readme.md)                          | 🟡 Medium  | O(n)            | O(1)             |
+| [Minimum Penalty for a shop ](./minimum-penalty-for-a-shop/readme.md)                                                | 🟡 Medium  | O(n)            | O(1)             |
 
 _Note: The list of problems is organized in this README to make it easier to find examples of challenges that use **[String]** effectively._
 
@@ -32,6 +33,7 @@ _Note: The list of problems is organized in this README to make it easier to fin
 ## 🚀 Key Techniques
 
 Using **[String]** offers advantages like:
+
 - **Efficiency**: Solving problems faster by focusing on optimal String usage.
 - **Scalability**: Reducing resource needs in complex problem scenarios.
 
@@ -46,4 +48,3 @@ This folder will be updated as new **[String]**-based problems are solved and ad
 ---
 
 **Happy Coding!**
-
