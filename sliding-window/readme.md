@@ -17,6 +17,7 @@ This folder contains solutions to LeetCode challenges that leverage the **[Slidi
 | --- | --- | --- | --- |
 | [Min size subarray sum](./01-min-size-subarray-sum/readme.md) | 🟡 Medium  | O(n) | O(1) |
 | [Longest substring without repeating characters](./02-longest-substring-without-repeating-characters/readme.md) | 🟡 Medium  | O(n) | O(1) |
+| [Longest repeating character replacement](./03-longest-repeating-character-replacement/readme.md) | 🟡 Medium  | O(n) | O(1) |
 
 *Note: The list of problems is organized in this README to make it easier to find examples of challenges that use **[Sliding Window]** effectively.*
 
