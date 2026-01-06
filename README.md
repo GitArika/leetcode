@@ -13,6 +13,7 @@ Welcome to my collection of LeetCode problem solutions! This repository is a rec
 
 | DSA                                              | Problems | 🟢 Easy | 🟡 Medium | 🔴 Hard |
 | ------------------------------------------------ | -------- | ------- | --------- | ------- |
+| [🪟 Sliding Window ](./sliding-window)           | 2        | 0       | 2         | 0       |
 | [🗃️ Array ](./arrays)                            | 10       | 5       | 4         | 1       |
 | [📊 Binary ](./binary)                           | 4        | 4       | 0         | 0       |
 | [📈 Dynamic Programming ](./dynamic-programming) | 3        | 3       | 0         | 0       |
@@ -25,7 +26,7 @@ Welcome to my collection of LeetCode problem solutions! This repository is a rec
 
 - Problems Solved **[36]**
   - 🟢 Easy **[26]**
-  - 🟡 Medium **[9]**
+  - 🟡 Medium **[11]**
   - 🔴 Hard **[1]**
 
 _Note: The list of problems is organized in this README to make it easier to find._

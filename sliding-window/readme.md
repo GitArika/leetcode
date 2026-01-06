@@ -1,49 +1,46 @@
-# Minimum Size Subarray Sum
-✅ Solved
-Difficult: Medium
+# 📂 [Sliding Window] Challenges
 
-Given an array of positive integers `nums` and a positive integer `target`, return the **minimal length** of a subarray whose sum is greater than or equal to `target`. If there is no such subarray, **return 0** instead.
+This folder contains solutions to LeetCode challenges that leverage the **[Sliding Window]** pattern to solve problems involving arrays or strings efficiently. Each problem is documented with a strategy to optimize sub-segment processing without redundant computations.
 
-## Example 1:
+## 📝 Folder Overview
 
-Input: 
-target = 7 
-nums = [2,3,1,2,4,3]
-Output: 2
+* **Purpose**: To provide optimized solutions using **[Sliding Window]** techniques (Fixed and Variable).
+* **Contents**: Each problem solution is accompanied by:
+* **Problem Description**: A brief explanation of the challenge.
+* **Solution**: The code implementation using **[Sliding Window]** logic.
+* **Complexity Analysis**: Insights into how the window movement impacts time and space.
 
-`Explanation: The subarray [4,3] has the minimal length under the problem constraint.`
 
-Example 2:
+## 📑 Problem List
 
-Input: target = 4
-nums = [1,4,4]
-Output: 1
+| Problem | Difficulty | Time Complexity | Space Complexity |
+| --- | --- | --- | --- |
+| [Min size subarray sum](./01-min-size-subarray-sum/readme.md) | 🟡 Medium  | O(n) | O(1) |
+| [Longest substring without repeating characters](./02-longest-substring-without-repeating-characters/readme.md) | 🟡 Medium  | O(n) | O(1) |
 
-Example 3:
+*Note: The list of problems is organized in this README to make it easier to find examples of challenges that use **[Sliding Window]** effectively.*
 
-Input: target = 11
-nums = [1,1,1,1,1,1,1,1]
-Output: 0 
+## ⚙️ How to Use
 
-Constraints:
+1. **Browse the problems**: Review the table above to locate challenges by name, difficulty, or complexity.
+2. **Explore the solutions**: Click on a solution link to see the markdown file with the full problem description, code, and complexity breakdown.
 
-1 <= target <= 109
-1 <= nums.length <= 105
-1 <= nums[i] <= 104
+## 🚀 Key Techniques
 
-```py
-import math
+Using **[Sliding Window]** algorithms offers advantages like:
 
-class Solution:
-    def minSubArrayLen(self, target: int, nums: List[int]) -> int:
-        minLength = math.inf 
-        windowSum = 0
-        windowStart = 0
-        for windowEnd in range(len(nums)):
-            windowSum += nums[windowEnd]
-            while windowSum >= target:
-                minLength = min(windowEnd - windowStart + 1, minLength)
-                windowSum -= nums[windowStart]
-                windowStart += 1
-        return 0 if  minLength == math.inf else minLength
-```
+* **Redundant Work Elimination**: Instead of re-scanning sub-arrays, we update the result by adding the "new" element and removing the "old" one.
+* **Complexity Reduction**: Typically transforms  brute-force approaches into  linear time solutions.
+* **Dynamic Adaptation**: Efficiently handles "Longest/Shortest" substring or subarray constraints using expansion and contraction logic.
+
+## 🔄 Regular Updates
+
+This folder will be updated as new **[Sliding Window]**-based problems are solved and added to this collection. Stay tuned for more!
+
+---
+
+> If you find these solutions helpful or have alternative approaches to suggest, feel free to contribute or discuss!
+
+---
+
+**Happy Coding!**
